@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**alexis-vannot/alexis-vannot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+#!/usr/bin/python
 
-Here are some ideas to get you started:
+class SoftwareEngineer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "Alexis VANNOT"
+        self.role = "Tech lead"
+        self.languages = ["fr_FR", "en_US"]
+
+me = SoftwareEngineer()
+```
+
+## 📝 Blogs
+
+- [WIP] Personal website : https://www.alexis-vannot.com
+- [WIP] Documentation : https://www.alexis-vannot.dev
