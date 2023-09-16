@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400">
-
 ```python
 #!/usr/bin/python
 
